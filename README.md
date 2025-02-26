@@ -48,7 +48,7 @@ numRatings  : Number of ratings received
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/book-recommendation-system.git
+git clone https://github.com/yourusername/book-recommender.git
 cd book-recommendation-system
 ```
 
